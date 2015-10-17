@@ -21,7 +21,7 @@
     "webRequestBlocking",
     "https://*.wsj.com/*",
     "http://*.wsj.com/*",
-    "http://*.theaustralian.com.au",
-    "https://*.theaustralian.com.au"
+    "http://*.theaustralian.com.au/*",
+    "https://*.theaustralian.com.au/*"
   ]
 }
